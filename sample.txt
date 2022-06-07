@@ -1,0 +1,27 @@
+<p> A researcher, lecturer, and data analysis <a href="duchuya2@gmail.com">@myemail</a>.
+						This is the place where you learn and share your interest <p/>
+
+
+                        <h2><a href="#">My name is <br /> 
+										Le Duc Huy </h2> </a> 
+
+                        <h2> My name is <br /> 
+                        Le Duc Huy </h2>
+
+                        <span class="date">April 18, 2017</span> 
+
+
+    <!-- Footer -->
+							<footer>
+								<div class="pagination">
+									<!--<a href="#" class="previous">Prev</a>-->
+									<a href="#" class="page active">1</a>
+									<a href="#" class="page">2</a>
+									<a href="#" class="page">3</a>
+									<span class="extra">&hellip;</span>
+									<a href="#" class="page">8</a>
+									<a href="#" class="page">9</a>
+									<a href="#" class="page">10</a>
+									<a href="#" class="next">Next</a>
+								</div>
+							</footer>
